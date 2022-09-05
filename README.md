@@ -1,3 +1,7 @@
+# My React Notes
+
+Go to src -> Notes to take a look at the notes I created to learn React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
