@@ -1,0 +1,7 @@
+/* do not follow jsx rules here */
+
+.App {
+  color: red;
+  background-color: wheat;
+  border: 2px solid black;
+}
