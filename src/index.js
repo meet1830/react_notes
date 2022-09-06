@@ -4,7 +4,8 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 // import App from './Notes/Lecture_01/00_App';
-import App from './Notes/Lecture_01/01_0_App';
+// import App from './Notes/Lecture_01/01_0_App';
+import App from './Notes/Lecture_02/01_0_App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
