@@ -2,11 +2,12 @@
 
 // import logo from './logo.svg'; -> default code
 
-import logo from '../logo.svg';
+import logo from '../../logo.svg';
 // ../ goes to parent dir
+// ../../ goes back two times
 // just / goes to the beginning of the dir that is the root folder -> meet -> downloads...
 
-import './0_App.css';
+import './00_App.css';
 
 function App() {
   return (

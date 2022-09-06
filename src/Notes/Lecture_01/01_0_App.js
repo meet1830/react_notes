@@ -1,5 +1,4 @@
-import logo from "../logo.svg";
-import "./01_App.css";
+import "./01_0_App.css";
 import MyComponent from "./01_1_MyComponent";
 import AnotherComponent from "./01_2_AnotherComponent";
 
