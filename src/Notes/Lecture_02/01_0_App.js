@@ -10,6 +10,8 @@ import {what} from './Components/01_MyComponent';
 import Header from "./Components/02_Header";
 import Prop from './Components/03_Props';
 
+import Testing from "./Components/04_Testing";
+
 function App() {
   const friendName = 'abc';
   const friendAge = '23';
@@ -51,6 +53,9 @@ function App() {
 
       {/* using variables as values for prop */}
       <p><Prop name={friendName} age={friendAge} place={friendPlace} /></p>
+
+      {/* using images */}
+      <p><Testing src='https://images.unsplash.com/photo-1662387709820-5ea1c001c67b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=406&q=80' /></p>
     </>
   );
 }
