@@ -3,6 +3,7 @@
 // import logo from './logo.svg'; -> default code
 
 import logo from '../../logo.svg';
+// ./ means look in the same directory
 // ../ goes to parent dir
 // ../../ goes back two times
 // just / goes to the beginning of the dir that is the root folder -> meet -> downloads...
