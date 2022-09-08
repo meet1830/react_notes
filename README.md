@@ -1,6 +1,6 @@
 # My React Notes
 
-Go to src -> Notes to take a look at the notes I created to learn React
+Go to directory src - Notes to take a look at the notes I created to learn React
 
 # Getting Started with Create React App
 
