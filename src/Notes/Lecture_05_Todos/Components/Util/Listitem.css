@@ -1,0 +1,12 @@
+.item-parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+.item-parent svg {
+    height: 20px;
+    width: 20px;
+    margin: auto 1rem;
+}
