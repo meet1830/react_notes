@@ -8,7 +8,8 @@ import reportWebVitals from './reportWebVitals';
 // import App from './Notes/Lecture_02/01_0_App';
 // import App from './Notes/Lecture_03/01_App';
 // import App from './Notes/Lecture_04/01_App';
-import App from './Notes/Lecture_06/01_App'
+// import App from './Notes/Lecture_06_e_commerce_app/01_App';
+import App from './Notes/Lecture_07_Get_Github/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
