@@ -1,0 +1,7 @@
+.alert {
+    background-color: #008060;
+    color: #fff;
+    padding: 0.5rem;
+    text-align: center;
+    text-transform: capitalize;
+}

@@ -1,0 +1,25 @@
+.home-categories-container {
+    margin: 30px;
+}
+
+.categories-row {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.category-card {
+    box-shadow: rgba(0, 0, 0, 0.1) 8px 4px 12px;
+}
+
+.category-card:hover {
+    box-shadow: none;
+    transition: 0.3s ease-in;
+}
+
+.categories-row h4 {
+    font-weight: 400;
+    margin-top: 5px;
+}
