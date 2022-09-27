@@ -11,7 +11,8 @@ import reportWebVitals from './reportWebVitals';
 // import App from './Notes/Lecture_06_e_commerce_app/01_App';
 // import App from './Notes/Lecture_07_Get_Github/App';
 // import App from './Notes/Lecture_08_Get_Github/App';
-import App from './Notes/Lecture_09_e_commerce_app_redux_1/01_App';
+// import App from './Notes/Lecture_09_e_commerce_app_redux_1/01_App';
+import App from './Notes/Lecture_10_e_commerce_app_redux_2/01_App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
